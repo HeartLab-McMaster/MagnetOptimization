@@ -1,3 +1,7 @@
 .eps
 .png
 .pdf
+
+runs/
+results/
+compute_can/
