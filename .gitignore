@@ -1,6 +1,7 @@
 .eps
 .png
 .pdf
+.prettierrc
 
 runs/
 results/
